@@ -25,3 +25,7 @@ Apart from Technical stuff I am also proficient in German Speaking
 - UiPath
 - Kore.AI
 - Cognigy
+
+## Profiles on 
+- LinkedIn (Gayatri Kulkarni)[https://www.linkedin.com/in/gayatri-kulkarni-abb5a8aa/]
+- HackerRank (GayatriAbhishek1)[https://www.hackerrank.com/profile/gayatriabhishek1]
