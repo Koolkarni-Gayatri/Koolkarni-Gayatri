@@ -27,5 +27,5 @@ Apart from Technical stuff I am also proficient in German Speaking
 - Cognigy
 
 ## Profiles on 
-- LinkedIn (Gayatri Kulkarni)[https://www.linkedin.com/in/gayatri-kulkarni-abb5a8aa/]
-- HackerRank (GayatriAbhishek1)[https://www.hackerrank.com/profile/gayatriabhishek1]
+- LinkedIn [Gayatri Kulkarni](https://www.linkedin.com/in/gayatri-kulkarni-abb5a8aa/)
+- HackerRank [GayatriAbhishek1](https://www.hackerrank.com/profile/gayatriabhishek1)
