@@ -5,7 +5,7 @@ I also have briefly worked on Data Science topics on banking domain. I have comp
 Apart from Technical stuff I am also proficient in German Speaking
 
 ## Technical Skills
-# Programming Languages
+### Programming Languages
 - Python
 - Java
 - C
@@ -13,13 +13,13 @@ Apart from Technical stuff I am also proficient in German Speaking
 - C++
 - MySQL
 
-# Tecnhical Branches
+### Tecnhical Branches
 - Automation
 - Full Stack Python Development
 - Data Science
 - AI/ML, NLP
 
-# Automation Tools
+### Automation Tools
 - Power Automate(formerly WinAutomation)
 - Blue Prism
 - UiPath
