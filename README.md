@@ -27,7 +27,7 @@ Apart from Technical stuff I am also proficient in German Speaking
 - Cognigy
 
 ### Badges
-![Gold Badge for Python](C:\Users\GOFRY\Documents\MySongs\GoldBadge-removebg-preview.png)
+![Gold Badge for Python](https://media.licdn.com/dms/image/v2/D5622AQEpOjgma5SSug/feedshare-shrink_800/feedshare-shrink_800/0/1716311459481?e=2147483647&v=beta&t=7j8bVguAKLJt9IrMKEFxYph5oNe2X76VPX9iBBHoSRE)
 ## Profiles on 
 - LinkedIn [Gayatri Kulkarni](https://www.linkedin.com/in/gayatri-kulkarni-abb5a8aa/)
 - HackerRank [GayatriAbhishek1](https://www.hackerrank.com/profile/gayatriabhishek1)
